@@ -2,7 +2,7 @@ audio-sales-analysis
 Final Python project: analytics of wholesale audio equipment sales for a B2B company.
 
 Audio Sales Analysis  
-This project was completed as the final assignment in the Python analytics module at [Karpov.courses](https://karpov.courses/).
+
 
 📌 Project Goal  
 To analyze wholesale orders of audio equipment and identify trends in product demand, customer behavior, and order statuses.
@@ -25,7 +25,7 @@ To analyze wholesale orders of audio equipment and identify trends in product de
 
 🇷🇺 Русская версия  
 Анализ оптовых продаж аудиотехники  
-Финальный проект по аналитике на Python в рамках курса от [Karpov.courses](https://karpov.courses/).
+
 
 📌 Цель проекта  
 Проанализировать оптовые заказы компании «Карпов Саунд»: понять, какие товары продаются лучше всего, какие клиенты активны, и каковы причины отмен заказов.
